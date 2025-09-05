@@ -32,9 +32,14 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin0027&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin0027&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin0027&show_icons=true&theme=radical&count_private=true" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin0027&theme=dark" width="380"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kelvin0027&theme=radical&no-frame=true&row=1&column=5" />
+</p>
+
 
 ## 📌 Featured Projects
 
