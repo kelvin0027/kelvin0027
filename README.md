@@ -83,7 +83,6 @@
 
 ## ⚡ Fun Fact
 _"Code is like humor. When you have to explain it, it’s bad." - Cory House_  
-I also started **Coreloft at 15** and turned 16 while still developing it—proof that passion beats age! 😎
 
 ---
 
