@@ -66,15 +66,19 @@
 - **Live Demo:** [my-ecommerce-kel.vercel.app](https://my-ecommerce-kel.vercel.app)
 
 ### **CrestHotels**
-**Hotel Management System (HMS)** designed to handle bookings, rooms, and guest services efficiently.  
+**Hotel Management System (HMS)** designed to handle bookings, rooms, and guest services efficiently, with both guest-facing and admin interfaces.  
 - **Frontend:** React, Tailwind CSS, Shadcn UI  
 - **Backend:** Node.js, Express.js, MongoDB, JWT  
 - **Features:**  
   - Room booking & availability management  
   - Guest profile, billing, and service management  
   - Multi-step hotel creation & management form  
-  - Admin dashboard with room & booking analytics  
-- **Live Demo:** [cresthotels.vercel.app](https://cresthotels.vercel.app)
+  - Admin dashboard with room, booking & analytics management  
+  - Role-based access for hotel staff and managers  
+- **Live Demo:**  
+  - Guest-facing: [cresthotels.vercel.app](https://cresthotels.vercel.app)  
+  - Admin Dashboard: [admin-cresthotels.vercel.app](https://admin-cresthotels.vercel.app)
+
 
 ## 📫 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
