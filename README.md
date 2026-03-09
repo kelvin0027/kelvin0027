@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" />
 </p>
 
 ## 🚀 GitHub Stats
@@ -49,7 +50,7 @@
 
 ### **Coreloft**
 **B2B SaaS project management system** for modern teams.  
-- **Frontend:** Next.js, React, Tailwind CSS, Shadcn, Zustand  
+- **Frontend:** Next.js, React, Tailwind CSS, Shadcn, Zustand. Typescript  
 - **Backend:** Node.js, Express.js, Prisma, PostgreSQL  
 - **Highlights:** RBAC, invite system, permission-based UI rendering  
 - **Live:** https://coreloft.vercel.app
